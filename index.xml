@@ -50,35 +50,35 @@
         <imagen>img/dendrobium.jpg</imagen>
     </planta>
     <planta>
-        <nomCien>Dracena Compacta</nomCien>
+        <nomCien>Costilla de adan - monstera deliciosa</nomCien>
         <zonaTaller>Zona2</zonaTaller>
-        <luz>Sitio con mucha luz natural.</luz>
-        <precio>18,99 €</precio>
-        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
-        <imagen>img/dracena.jpg</imagen>
+        <luz>Necesita semisombra ya que no tolera el sol directo.</luz>
+        <precio>8,99 €</precio>
+        <cuidado>No dejar secar el sustrato completamente. un riego semanal en primavera-verano y cada 12 dias en invierno. le gusta mucho la humedad, para ello pulverizar frecuentemente.</cuidado>
+        <imagen>img/costilla.jpg</imagen>
     </planta>
     <planta>
-        <nomCien>Dracena Compacta</nomCien>
+        <nomCien>Calathea crocata</nomCien>
         <zonaTaller>Zona2</zonaTaller>
-        <luz>Sitio con mucha luz natural.</luz>
-        <precio>18,99 €</precio>
-        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
-        <imagen>img/dracena.jpg</imagen>
+        <luz>Situación sombría</luz>
+        <precio>16,99 €</precio>
+        <cuidado>Muy susceptible al frío, no soporta temperatura a 7ºC. Cuidado con las corrientes de aire frío en invierno, pueden matarla. Evitar los cambios bruscos de temperatura.</cuidado>
+        <imagen>img/calathea.jpg</imagen>
     </planta>
     <planta>
-        <nomCien>Dracena Compacta</nomCien>
+        <nomCien>Dracena hawaiian</nomCien>
         <zonaTaller>Zona2</zonaTaller>
-        <luz>Sitio con mucha luz natural.</luz>
-        <precio>18,99 €</precio>
-        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
-        <imagen>img/dracena.jpg</imagen>
+        <luz>Abundante luz pero no poner al sol directo.</luz>
+        <precio>69,99 €</precio>
+        <cuidado>Regar de manera abundante en el periodo de primavera y verano. El sustrato es conveniente que esté siempre húmedo, pero sin encharcamientos.</cuidado>
+        <imagen>img/hawai.jpg</imagen>
     </planta>
     <planta>
-        <nomCien>Dracena Compacta</nomCien>
+        <nomCien>ficus benjamina trenzado espaldera</nomCien>
         <zonaTaller>Zona2</zonaTaller>
-        <luz>Sitio con mucha luz natural.</luz>
-        <precio>18,99 €</precio>
-        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
-        <imagen>img/dracena.jpg</imagen>
+        <luz>Abundante luz pero no poner al sol directo.</luz>
+        <precio>76,99 €</precio>
+        <cuidado>se recomienta no bajar de los 13ºC y que en verano ronden los 24ºC y regar de manera continuada en la época de crecimiento.</cuidado>
+        <imagen>img/ficus.jpg</imagen>
     </planta>
 </catalogo>
