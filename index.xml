@@ -2,11 +2,83 @@
 <?xml-stylesheet type="text/xsl" href="xsl/index.xsl"?>
 <catalogo>
     <planta>
-        <nomCien></nomCien>
-        <zonaTaller></zonaTaller>
-        <luz></luz>
-        <precio></precio>
-        <cuidado></cuidado>
-        <imagen></imagen>
+        <nomCien>Orquidea Phalaenopsis</nomCien>
+        <zonaTaller>Zona1</zonaTaller>
+        <luz>Abundante luz pero no poner al sol directo.</luz>
+        <precio>11,99 €</precio>
+        <cuidado>Se recomienda ubicar en el interior de la casa, en un lugar lo más iluminado posible, protegiéndolas de corrientes de aire y de lugares fríos (temperaturas por debajo de 12ºC le hacen mucho daño).</cuidado>
+        <imagen>img/orquidea.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Aspidistra elatior</nomCien>
+        <zonaTaller>Zona1</zonaTaller>
+        <luz>Abundante luz pero no poner al sol directo.</luz>
+        <precio>22,99 €</precio>
+        <cuidado>En ambientes oscuros el follaje pierde brillo y vitalidad. Al aire libre sólo vive bien con calor y sombra. Aguantan bajas temperaturas, incluso suaves heladas si no son muy prolongadas.</cuidado>
+        <imagen>img/Aspidistra.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Begonia elatior</nomCien>
+        <zonaTaller>Zona1</zonaTaller>
+        <luz>Abundante luz pero no poner al sol directo.</luz>
+        <precio>4,99 €</precio>
+        <cuidado>Mantener el sustrato siempre húmedo, pero no encharcarlo.</cuidado>
+        <imagen>img/begonia.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Dieffembachia camilla</nomCien>
+        <zonaTaller>Zona1</zonaTaller>
+        <luz>Abundante luz pero no poner al sol directo.</luz>
+        <precio>9,99 €</precio>
+        <cuidado>Se debe regar cuando la tierra esté húmeda, pero sin encharcarla. También es bueno pulverizarla para mantener la húmedad.</cuidado>
+        <imagen>img/dieffembachia.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Dracena Compacta</nomCien>
+        <zonaTaller>Zona1</zonaTaller>
+        <luz>Sitio con mucha luz natural.</luz>
+        <precio>18,99 €</precio>
+        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
+        <imagen>img/dracena.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Orquidea dendrobium</nomCien>
+        <zonaTaller>Zona2</zonaTaller>
+        <luz>Abundante luz pero no poner al sol directo.</luz>
+        <precio>15,99 €</precio>
+        <cuidado>Las raíces son muy sensibles al agua estancada. Riego cada 3 ó 4 días durante el crecimiento.</cuidado>
+        <imagen>img/dendrobium.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Dracena Compacta</nomCien>
+        <zonaTaller>Zona2</zonaTaller>
+        <luz>Sitio con mucha luz natural.</luz>
+        <precio>18,99 €</precio>
+        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
+        <imagen>img/dracena.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Dracena Compacta</nomCien>
+        <zonaTaller>Zona2</zonaTaller>
+        <luz>Sitio con mucha luz natural.</luz>
+        <precio>18,99 €</precio>
+        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
+        <imagen>img/dracena.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Dracena Compacta</nomCien>
+        <zonaTaller>Zona2</zonaTaller>
+        <luz>Sitio con mucha luz natural.</luz>
+        <precio>18,99 €</precio>
+        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
+        <imagen>img/dracena.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Dracena Compacta</nomCien>
+        <zonaTaller>Zona2</zonaTaller>
+        <luz>Sitio con mucha luz natural.</luz>
+        <precio>18,99 €</precio>
+        <cuidado>Resiste mejor la sequía que el exceso de agua, por lo que no se debe regar hasta que el sustrato no este completamente seco. Se recomienda 1 o 2 veces por semana, si está en el exterior una 1 o 2 veces más.</cuidado>
+        <imagen>img/dracena.jpg</imagen>
     </planta>
 </catalogo>
