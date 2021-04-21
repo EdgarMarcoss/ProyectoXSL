@@ -13,7 +13,7 @@
 
             <link rel="stylesheet" type="text/css" href="css/styles.css"/>
             <script src="js/fontawasome.js"></script>
-            <script src="js/canvasTest.js"></script>
+            
 
             <title>SerPhora</title>
         </head>
