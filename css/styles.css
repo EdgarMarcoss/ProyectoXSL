@@ -117,6 +117,14 @@ p {
     width: 100%;
 }
 
+.footer {
+    background-color: green;
+    color: white;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
 @media screen and (max-device-width: 700px) {
     /* Responsive layout */
     .two-column {

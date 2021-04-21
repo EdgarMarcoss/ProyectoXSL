@@ -87,6 +87,10 @@
                 </xsl:for-each>
             </div>
         </div>
+        <div class="row footer">
+            <p>SerPhora 2021</p>
+            <p>Email: serphora@bcnp.es</p>
+        </div>
 
         </html>
     </xsl:template>
