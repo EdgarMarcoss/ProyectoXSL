@@ -108,3 +108,28 @@ p {
     padding-bottom: 20px;
     background-color: chartreuse;
 }
+
+@media screen and (max-device-width:700px) {
+    /* Responsive layout */
+    .two-column {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+
+    .two-column h3 {
+        font-size: 20px;
+        color: rgb(0, 48, 0);
+    }
+    .two-column h4 {
+        font-size: 30px;
+        color: green;
+    }
+    .two-column p {
+        font-size: 15px;
+    }
+    .header {
+        font-size: 30px;
+    }
+    
+}
