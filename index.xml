@@ -74,11 +74,51 @@
         <imagen>img/hawai.jpg</imagen>
     </planta>
     <planta>
-        <nomCien>ficus benjamina trenzado espaldera</nomCien>
+        <nomCien>Ficus benjamina trenzado espaldera</nomCien>
         <zonaTaller>Zona2</zonaTaller>
         <luz>Abundante luz pero no poner al sol directo.</luz>
         <precio>76,99 €</precio>
         <cuidado>se recomienta no bajar de los 13ºC y que en verano ronden los 24ºC y regar de manera continuada en la época de crecimiento.</cuidado>
         <imagen>img/ficus.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Ficus adbijan</nomCien>
+        <zonaTaller>Zona3</zonaTaller>
+        <luz>En interiores y exteriores debe recibir abundante luz.</luz>
+        <precio>69,99 €</precio>
+        <cuidado>Temperatura ideal entre 15-25ºC. En zonas costeras puede tolerar heladas ligeras, si se aclimata al exterior.</cuidado>
+        <imagen>img/adbijan.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Alocasia polly</nomCien>
+        <zonaTaller>Zona3</zonaTaller>
+        <luz>No le gusta el pleno sol, se decolora o se quema. Plantar a la sombra o semisombra.</luz>
+        <precio>7,99 €</precio>
+        <cuidado>Riego abundante en verano y escaso en invierno. Bastante humedad en el ambiente. Si la temperatura es alta, pulverizar el follaje.</cuidado>
+        <imagen>img/polly.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Chamadorea</nomCien>
+        <zonaTaller>Zona3</zonaTaller>
+        <luz>Sombra o semisombra, ya que a pleno sol se quema.</luz>
+        <precio>9,99 €</precio>
+        <cuidado>Agradece un ambiente húmedo, aunque se adapta al aire seco. En verano pulverizar diariamente con agua.</cuidado>
+        <imagen>img/chama.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Kentia</nomCien>
+        <zonaTaller>Zona3</zonaTaller>
+        <luz>Es resistente a la escasa iluminación de las viviendas. Aunque si tiene más, mejor, estará más fuerte.</luz>
+        <precio>32,99 €</precio>
+        <cuidado>En verano riega 2 veces por semana y 1 ó 2 veces al mes en invierno. Pulveriza con agua las hojas; especialmente en verano y también si está en un cuarto con calefacción. La sequedad del aire las estropea.</cuidado>
+        <imagen>img/kentia.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Aeschynanthus colgante</nomCien>
+        <zonaTaller>Zona3</zonaTaller>
+        <luz>Al ser plantas tropicales necesitan recibir la luz del sol abundante.</luz>
+        <precio>19,99 €</precio>
+        <cuidado>En primavera es recomendable regar de manera moderada, pero a medida que avanza el verano es mejor aumentar. Cuando llega el invierno hacerlo cuando el sustrato esté seco.</cuidado>
+        <imagen>img/aes.jpg</imagen>
     </planta>
 </catalogo>
