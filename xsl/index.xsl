@@ -34,8 +34,11 @@
 
                     <xsl:if test="position() mod 2 = 0">
                         <div class="row white">
+                            <div class="row one-column">
+                                <h3 class="titulo"><i class="far fa-leaf-heart "></i><xsl:value-of select="nomCien"/></h3>
+                            </div>
                             <div class="two-column">
-                                <h3><i class="far fa-leaf-heart"></i><xsl:value-of select="nomCien"/></h3>
+                                
                                 <p class="text-2 padtext"><i class="fas fa-map-signs brown tam"></i>: <xsl:value-of select="zonaTaller"/></p>
                                 <p class="text-2 padtext"><i class="fad fa-sun yellow tam"></i>: <xsl:value-of select="luz"/></p>
                                 <p class="descrip padtext"><i class="fas fa-file-medical green tam"></i>: <xsl:value-of select="cuidado"/></p>
@@ -55,6 +58,9 @@
 
                     <xsl:if test="position() mod 2 = 1">
                         <div class="row white ">
+                            <div class="row one-column">
+                                <h3 class="titulo"><i class="far fa-leaf-heart"></i><xsl:value-of select="nomCien"/></h3>
+                            </div>
                             <div class="two-column">
                                 <img class="img">
                                     <xsl:attribute name="src">
@@ -64,7 +70,7 @@
                             </div>
 
                             <div class="two-column">
-                                <h3><i class="far fa-leaf-heart"></i><xsl:value-of select="nomCien"/></h3>
+                            
                                 <p class="text-2"><i class="fas fa-map-signs brown tam"></i>: <xsl:value-of select="zonaTaller"/></p>
                                 <p class="text-2"><i class="fad fa-sun yellow tam"></i>: <xsl:value-of select="luz"/></p>
                                 <p class="descrip"><i class="fas fa-file-medical green tam"></i>: <xsl:value-of select="cuidado"/></p>
