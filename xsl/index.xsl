@@ -13,19 +13,22 @@
 
             <link rel="stylesheet" type="text/css" href="css/styles.css"/>
             <script src="js/fontawasome.js"></script>
-
+            <script src="js/canvasTest.js"></script>
 
             <title>SerPhora</title>
         </head>
 
         <body>
             <div class="header">
-                <h1>SerPhora</h1>
-                <h1>Venta de plantas</h1>
+                <div class="headercolor">
+                    <h1>SerPhora</h1>
+                    <h1>Venta de plantas</h1>
+                </div>
             </div>
         </body>
 
         <div class="row">
+        
             <div class="pad test">
                 <div class="padcolor">
                 <br></br>

@@ -14,8 +14,12 @@ body {
     text-align: center;
     width: 100%;
     height: 50%;
-    color: rgb(22, 245, 1);
+    color: rgb(12, 134, 1);
     font-size: 55px;
+}
+
+.headercolor {
+    background-color: rgba(255, 255, 255, 0.493);
 }
 
 .row:after {
@@ -106,7 +110,7 @@ p {
 .padcolor {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: chartreuse;
+    background-color: greenyellow;
 }
 
 .one-column {
