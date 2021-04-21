@@ -121,4 +121,44 @@
         <cuidado>En primavera es recomendable regar de manera moderada, pero a medida que avanza el verano es mejor aumentar. Cuando llega el invierno hacerlo cuando el sustrato esté seco.</cuidado>
         <imagen>img/aes.jpg</imagen>
     </planta>
+    <planta>
+        <nomCien>Anthurium rojo</nomCien>
+        <zonaTaller>Zona4</zonaTaller>
+        <luz>Muy iluminada, pero sin que le dé luz directa para evitar quemaduras.</luz>
+        <precio>9,99 €</precio>
+        <cuidado>En verano regar 3 veces a la semana y en invierno reducir a 1 vez por semana. Es casi más importante la humedad del aire que el riego.</cuidado>
+        <imagen>img/anthu.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Campanula</nomCien>
+        <zonaTaller>Zona4</zonaTaller>
+        <luz>Luz intensa ,incluso con un poco de sol.</luz>
+        <precio>5,99 €</precio>
+        <cuidado>Mantén el substrato húmedo. En verano, riega a diario.</cuidado>
+        <imagen>img/campa.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Livistonia rotundifolia</nomCien>
+        <zonaTaller>Zona4</zonaTaller>
+        <luz>Necesita mucha iluminación, siempre y cuando no sea luz directa.</luz>
+        <precio>11,99 €</precio>
+        <cuidado>Regar cuando la tierra esté ligeramente húmeda.</cuidado>
+        <imagen>img/livis.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Hiedra colgante</nomCien>
+        <zonaTaller>Zona4</zonaTaller>
+        <luz>Aguanta bien en lugares con poca luz. Pero es recomendable colocarla en lugares luminosos, pero sin sol directo.</luz>
+        <precio>6,99 €</precio>
+        <cuidado>Se necesitan dos o tres riegos a la semana en los meses de calor, y uno por semana el resto del año.</cuidado>
+        <imagen>img/hiedra.jpg</imagen>
+    </planta>
+    <planta>
+        <nomCien>Lilium asiatico</nomCien>
+        <zonaTaller>Zona4</zonaTaller>
+        <luz>Una vez plantada, procura que la tierra se mantenga fresca y a la sombra, y que el sol solamente les dé a las flores.</luz>
+        <precio>5,99 €</precio>
+        <cuidado>Riego 2 veces o 3 veces por semana, según dosis, y aumentando el riego cuando florecen.</cuidado>
+        <imagen>img/lilium.jpg</imagen>
+    </planta>
 </catalogo>
